@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+}
+.ImgCarrossel {
+    height: 300px;
+    object-fit: cover;
+    }
+.grid {
+    margin-top: 20px;
+    margin-inline-end:  20px;
+    width: 300px;
+    border-radius: 20px;
+}
+col{    
+    margin: 0px;
+}
+.bannerempresa {
+    width: 100 px;
+}
